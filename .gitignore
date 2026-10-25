@@ -1,5 +1,6 @@
 *.pyc
 __pycache__/
-*.sqlite3
-instance/
-.env
+*.db
+.pytest_cache/
+*.log
+.DS_Store
